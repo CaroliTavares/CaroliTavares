@@ -13,7 +13,7 @@
   
  <p align="center"> 
 
- ## Total de visitas no meu perfil desde 10/11/2021 :detective: <br>
+ ## Total de visitas no meu perfil desde 10/05/2023 :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/CaroliTavares/count.svg" />
  </p>
