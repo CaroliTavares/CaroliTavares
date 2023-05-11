@@ -9,8 +9,11 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
   
- `![Snake animation](https://github.com/CaroliTavares/CaroliTavares/blob/output/github-contribution-grid-snake.svg)`
-  
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/output/github-contribution-grid-snake.svg">
+</picture>
  <p align="center"> 
 
  ## Total de visitas no meu perfil desde 10/05/2023 :detective: <br>
