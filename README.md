@@ -7,7 +7,7 @@
 </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-171-blue)
 
@@ -81,7 +81,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2023 18:32:19 UTC
+ Last Updated on 16/05/2023 18:32:14 UTC
 <!--END_SECTION:waka-->
   
   <picture>
