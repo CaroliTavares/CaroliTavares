@@ -80,7 +80,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2023 18:32:11 UTC
+ Last Updated on 20/05/2023 18:32:21 UTC
 <!--END_SECTION:waka-->
   
   <picture>
