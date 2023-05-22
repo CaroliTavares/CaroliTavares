@@ -50,14 +50,13 @@ Sunday                   34 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   98.52 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharmCore              0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +76,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2023 18:32:29 UTC
+ Last Updated on 22/05/2023 18:32:13 UTC
 <!--END_SECTION:waka-->
   
   <picture>
