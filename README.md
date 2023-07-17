@@ -15,11 +15,11 @@
 
 > 📦 203.0 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2023
+> 🏆 8 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 32 Private Repositories 
  > 
@@ -62,11 +62,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   29 repos            █████████████░░░░░░░░░░░░   50.88 % 
-HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Jupyter Notebook         8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Python                   30 repos            █████████████░░░░░░░░░░░░   51.72 % 
+HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Jupyter Notebook         8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 ```
 
 
@@ -76,7 +76,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2023 18:34:26 UTC
+ Last Updated on 17/07/2023 18:35:28 UTC
 <!--END_SECTION:waka-->
   
   <picture>
