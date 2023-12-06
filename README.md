@@ -7,8 +7,6 @@
 </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2042%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -23,42 +21,6 @@
  > 
 > 🔑 32 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                73 commits          ████████░░░░░░░░░░░░░░░░░   33.03 % 
-🌆 Daytime                74 commits          ████████░░░░░░░░░░░░░░░░░   33.48 % 
-🌃 Evening                72 commits          ████████░░░░░░░░░░░░░░░░░   32.58 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Tuesday                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Wednesday                31 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Thursday                 43 commits          █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Friday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Saturday                 38 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Sunday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -76,7 +38,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 18:33:13 UTC
+ Last Updated on 06/12/2023 18:34:21 UTC
 <!--END_SECTION:waka-->
   
   <picture>
