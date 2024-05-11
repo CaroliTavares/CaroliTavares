@@ -74,7 +74,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2024 18:34:43 UTC
+ Last Updated on 11/05/2024 18:32:16 UTC
 <!--END_SECTION:waka-->
   
   <picture>
