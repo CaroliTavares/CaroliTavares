@@ -15,6 +15,8 @@
 
 > 📦 203.1 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -74,7 +76,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2024 18:32:58 UTC
+ Last Updated on 20/05/2024 18:34:57 UTC
 <!--END_SECTION:waka-->
   
   <picture>
