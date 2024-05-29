@@ -13,11 +13,11 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 203.3 kB Used in GitHub's Storage 
+> 📦 203.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 34 Private Repositories 
  > 
@@ -74,7 +74,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2024 18:36:57 UTC
+ Last Updated on 29/05/2024 18:35:12 UTC
 <!--END_SECTION:waka-->
   
   <picture>
