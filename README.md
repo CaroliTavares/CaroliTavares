@@ -7,6 +7,8 @@
 </div>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -60,11 +62,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   30 repos            █████████████░░░░░░░░░░░░   51.72 % 
-HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Jupyter Notebook         8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python                   29 repos            █████████████░░░░░░░░░░░░   50.88 % 
+HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Jupyter Notebook         8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 ```
 
 
@@ -74,7 +76,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2024 18:38:50 UTC
+ Last Updated on 09/09/2024 18:40:27 UTC
 <!--END_SECTION:waka-->
   
   <picture>
