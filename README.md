@@ -7,11 +7,15 @@
 </div>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 203.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -72,7 +76,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CaroliTavares/CaroliTavares/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 18:40:11 UTC
+ Last Updated on 04/11/2024 18:41:20 UTC
 <!--END_SECTION:waka-->
   
   <picture>
